@@ -1,0 +1,8 @@
+实验4《进程的管理与创建》提交材料
+姓名：何镇    学号：243080259
+班级：电子信息科学与技术 2024级01班
+日期：2026年11月4日
+
+1. 实验报告4_进程的管理与创建_何镇_243080259.docx / .pdf
+2. 源代码/  —— HeZhenCreateProcess.c、HeZhenCreateProcessNoWait.c、HeZhenCreateProcess2.c
+3. 截图/    —— 6 张运行截图

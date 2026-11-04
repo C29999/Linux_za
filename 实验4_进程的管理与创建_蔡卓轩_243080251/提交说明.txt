@@ -1,0 +1,8 @@
+实验4《进程的管理与创建》提交材料
+姓名：蔡卓轩    学号：243080251
+班级：电子信息科学与技术 2024级01班
+日期：2026年11月4日
+
+1. 实验报告4_进程的管理与创建_蔡卓轩_243080251.docx / .pdf
+2. 源代码/  —— CaiZhuoXuanCreateProcess.c、CaiZhuoXuanCreateProcessNoWait.c、CaiZhuoXuanCreateProcess2.c
+3. 截图/    —— 6 张运行截图
