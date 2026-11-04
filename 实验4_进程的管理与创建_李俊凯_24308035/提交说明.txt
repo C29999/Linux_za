@@ -1,0 +1,12 @@
+实验4《进程的管理与创建》提交材料
+姓名：李俊凯    学号：24308035    班级：电子信息科学与技术 2024级01班
+日期：2026年11月4日
+
+1. 实验报告4_进程的管理与创建_李俊凯_24308035.docx   —— 实验报告（Word）
+2. 实验报告4_进程的管理与创建_李俊凯_24308035.pdf    —— 实验报告（PDF）
+3. 源代码/  —— 三个 C 源程序
+     LiJunKaiCreateProcess.c         (5.4 fork + wait)
+     LiJunKaiCreateProcessNoWait.c   (5.5 去掉 wait，观察孤儿进程)
+     LiJunKaiCreateProcess2.c        (5.6 execlp 加载新映像)
+4. 截图/    —— 报告中使用的 6 张截图（由实际命令/程序输出生成）
+     01_ps_ef.png / 02_top.png / 03_pstree.png / 04_run_wait.png / 05_run_nowait.png / 06_run_exec.png
